@@ -1,4 +1,4 @@
 moving-nav
 ==========
 
-A navigational div that moves horizontally with user scroll
+A navigational div that moves and animates vertically with user scroll
